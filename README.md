@@ -2,12 +2,6 @@
 
 The official date and datetime plugin for Rebase.
 
-## Install
-
-```sh
-npm install @rebase/date
-```
-
 ## Setup
 
 ```js
